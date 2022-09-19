@@ -1,0 +1,19 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongodb-legacy": "^4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
