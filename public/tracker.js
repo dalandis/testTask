@@ -50,7 +50,7 @@ class Tracker {
             console.log(err);
         }
         
-        window.setTimeout(() => {window.block = false}, 10000);
+        window.setTimeout(() => {window.block = false}, 1000);
     }
 }
 
